@@ -13,6 +13,7 @@ kanban-plugin: board
 
 - [ ] [[xv6 Note]]
 - [ ] [[os 哈工大]] ^m9aa5g
+- [ ] [[Learn linux kernel]]
 
 
 ***
